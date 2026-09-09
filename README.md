@@ -13,5 +13,5 @@ This project relies on the following open-source Arduino libraries:
 3. Search for **Adafruit NeoPixel** and click **Install**.
 4. Search for **RTClib** and click **Install**.
 5. 
-# After installing **Adafruit NeoPixel** and **RTClib**
-open [WS2811_4_Digit_Clock](https://github.com/Sunil4096/WS2811_4_Digit_Clock/blob/main/4_DIGIT_Clock_WS2811_RTC.ino)
+### After installing **Adafruit NeoPixel** and **RTClib**
+open Arduino ide>File>new sketch and paste this code [WS2811_4_Digit_Clock](https://github.com/Sunil4096/WS2811_4_Digit_Clock/blob/main/4_DIGIT_Clock_WS2811_RTC.ino)
