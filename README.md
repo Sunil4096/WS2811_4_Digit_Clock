@@ -1,5 +1,5 @@
 # WS2811_4_Digit_Clock
-## 💻 Software & Libraries
+## Software & Libraries
 
 This project relies on the following open-source Arduino libraries:
 
